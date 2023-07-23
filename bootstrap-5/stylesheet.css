@@ -56,5 +56,6 @@ body::before {
 @media (max-width: 991px){
   .col-lg-4{
     margin-bottom: 20px;
+    width: 100%;
   }
 }
